@@ -41,6 +41,8 @@ export default {
       const city = 'Berlin';
       const country = cityToCountry[city];
       const currency = countryToCurrency[country];
+      const placeHtml = 'div.css-1fanzo5 > div.css-53u6y8';
+      const imageHtml = '[data-testid=photoviewer-children]';
 
       //put these into template pointer
       //template pointer file can return file to load
@@ -57,8 +59,6 @@ export default {
       if (!mapMarkerString){
         throw new Error('map marker string not found in html source');
       }
-
-     // console.log(html)
 
       const mapMarkerJson = JSON.parse(mapMarkerString);
 
@@ -106,14 +106,12 @@ export default {
 
       const placeValuesToMatch = [];
 
-      //MAKE THESE INTO STRING VARIABLES
-      $('div.css-1fanzo5 > div.css-53u6y8').each((i, value) => {
+      $(placeHtml).each((i, value) => {
 
         if(!$('h3', value).text()){
           return;
         }
 
-        //let currentPlace = 0;
         $('h3, p', value).each((i, value) => {
 
           const text = $(value).text().trim();
@@ -273,7 +271,7 @@ export default {
       //collect images
       //NOTE: only collects first image /!\
       //--> need a headless browser to collect all images on page (or parse preload JS object)
-      $('[data-testid=photoviewer-children]').each((i, value) => {
+      $(imageHtml).each((i, value) => {
 
         let image = $('img',value).attr('src');
         if(image){

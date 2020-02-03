@@ -12,7 +12,7 @@ let templates = {};
 
 export async function scrapePlacesFromURL(url){
 
-  //REDIS:
+  //TO DO: REDIS:
   //check if URL in redis (with expiration), if so return redis cache
 
   const html = await getHTML(url);
@@ -24,10 +24,10 @@ export async function scrapePlacesFromURL(url){
 
   const places = await parseHTML(html, url);
 
-  //NOTE: with more time:
+  //TODO NOTE: with more time:
   //would run validation of place schema against place objects and try to fill in missing/invalid place data with additional parse templates
 
-  //REDIS:
+  //TO DO: REDIS:
   //store in redis with expiration
 
   return places;
