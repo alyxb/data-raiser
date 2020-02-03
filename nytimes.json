@@ -1,0 +1,335 @@
+{
+    "count": 12,
+    "result": [
+        {
+            "location": {
+                "address": {
+                    "street": "Bernauer Straße 111",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.53505209999999,
+                    "lng": 13.39018980000003
+                }
+            },
+            "name": "Berlin Wall Memorial",
+            "placeURL": "http://www.berliner-mauer-gedenkstaette.de/",
+            "headline": "5:30 p.m. Walking the Wall",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "17:30"
+            },
+            "cost": {
+                "currency": "EUR"
+            },
+            "description": "The East Side Gallery in Friedrichshain; the long stretch of the Berlin Wall that is clad in colorful iconic images; and the Wall Museum: These sites all get ample visitors. But the most sobering way to get a sense of what it was like to live in Berlin during the time of the Wall is at the Berlin Wall Memorial in Prenzlauer Berg. This portion of the wall and the harrowing section known as the “death strip” — with its booby traps, armed guards, towers and trenches — allow visitors to see the most preserved swath of the remaining wall complex. Admission is free.",
+            "relevantPlaces": [
+                "the ",
+                "Wall Museum"
+            ],
+            "images": [
+                "https://static01.nyt.com/images/2019/10/31/travel/31Hours-Berlin1/merlin_162842502_3c69d00b-2495-4c45-a8e7-19c71c872e6e-articleLarge.jpg"
+            ]
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "22-24, Knaackstraße",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.5348479,
+                    "lng": 13.418625799999973
+                }
+            },
+            "name": "Restaurant Pasternak",
+            "placeURL": "http://restaurant-pasternak.de/",
+            "headline": "8 p.m. Vodka shots and soljanka",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "20:00"
+            },
+            "cost": {
+                "currency": "EUR",
+                "value": "85"
+            },
+            "description": "Opened in 1994 and located in the former East Berlin neighborhood of Prenzlauer Berg, Restaurant Pasternak serves dishes from around the former Soviet Union, particularly from Russia and Ukraine; many of the options have an Eastern European Jewish bent. The restaurant is named after the Nobel Prize-winning Russian poet and author of “Doctor Zhivago,” Boris Pasternak. Start off with a bowl of soljanka, a creamy, dill-spiked soup that has Russian origins, but was one of the most popular dishes in the former East Germany; then move on to sautéed calf’s liver and latkes accented with a spicy apple jam. And don’t forget to have a few shots of the house vodka. Dinner for two, about €85 with wine or vodka.",
+            "relevantPlaces": []
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Weinstraße 11",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.5264767,
+                    "lng": 13.427431800000022
+                }
+            },
+            "name": "Pila",
+            "placeURL": "http://www.restaurant-pila.de/",
+            "headline": "2 p.m. Schnitzel and schlock",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "14:00"
+            },
+            "cost": {
+                "currency": "EUR",
+                "value": "40"
+            },
+            "description": "PILA is a restaurant on Friedrichshain Volkspark that also bills itself as a museum dedicated to the former East Germany. The interior is bedecked with all manner of G.D.R. minutiae — enough East Berlin flags and portraits of former dear leaders to bring tears to the eyes of those nostalgic for five-year plans and collective farming. This is a place for those craving dishes like schnitzel atop fusilli pasta with a few splotches of ketchup-spiked tomato sauce and plus-size plates of currywurst, which is better than you’d think. Even the light, flimsy forks and spoons are legit G.D.R. throwbacks. Lunch is about €40 with beer.",
+            "relevantPlaces": []
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Alexanderstraße 7",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.5228865,
+                    "lng": 13.416791800000055
+                }
+            },
+            "name": "Humana Secondhand & Vintage",
+            "placeURL": "http://www.humana-second-hand.de/",
+            "headline": "3 p.m. Shop like a Socialist",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "15:00"
+            },
+            "cost": {
+                "currency": "EUR"
+            },
+            "description": "Good news, comrade! Both ends of Karl Marx Allee — or at least between Frankfurter Tor and Alexanderplatz — are book ended by Humana Second Hand & Vintage shops. The outlet at Frankfurter Tor is the largest secondhand shop in Berlin: four floors of vintage and used duds. The top floor focuses on clothes from the 1950s to the 1990s, and there are often select racks for G.D.R. clothes at either or both locations. If you like your Socialist souvenirs even more kitschy, head to Ampelmann, south of Alexanderplatz, a shop that sells images of the “traffic light man,” an East German symbol that has become iconic since the fall of the Wall, on everything from golf balls to coffee mugs to T-shirts.",
+            "relevantPlaces": []
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Karl-Liebknecht-Straße 1",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.5196077,
+                    "lng": 13.402733099999978
+                }
+            },
+            "name": "DDR Museum",
+            "placeURL": "http://www.ddr-museum.de/",
+            "headline": "3 p.m. Communists, nudists and dissidents",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "15:00"
+            },
+            "cost": {
+                "currency": "EUR",
+                "value": "9.80"
+            },
+            "description": "Ever wonder why East Germans had a proclivity for hanging out in public stark naked? Or what it was like to drive a Trabant — the cult East German-made automobile with a Formica-like Duroplast body — around East Germany in the 1980s? Or what an interrogation room looked like? You can find out at the DDR Museum, a fascinating, immersive, hands-on experience that serves as an excellent introduction to life in East Germany. The museum, which opened in 2006 and is housed in a modern building on the Spree River, recently welcomed its six millionth visitor. Admission: 9.80 euros, or about $10.80.",
+            "relevantPlaces": []
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Karl-Liebknecht-Straße 5",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.5195322,
+                    "lng": 13.403119100000026
+                }
+            },
+            "name": "Ampelmann Shop",
+            "placeURL": "http://www.ampelmann.de/shops-cafes-und-restaurant/shop-am-berliner-dom/",
+            "headline": "3 p.m. Shop like a Socialist",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "15:00"
+            },
+            "cost": {
+                "currency": "EUR"
+            },
+            "description": "Good news, comrade! Both ends of Karl Marx Allee — or at least between Frankfurter Tor and Alexanderplatz — are book ended by Humana Second Hand & Vintage shops. The outlet at Frankfurter Tor is the largest secondhand shop in Berlin: four floors of vintage and used duds. The top floor focuses on clothes from the 1950s to the 1990s, and there are often select racks for G.D.R. clothes at either or both locations. If you like your Socialist souvenirs even more kitschy, head to Ampelmann, south of Alexanderplatz, a shop that sells images of the “traffic light man,” an East German symbol that has become iconic since the fall of the Wall, on everything from golf balls to coffee mugs to T-shirts.",
+            "relevantPlaces": []
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.51769669999999,
+                    "lng": 13.4360408
+                }
+            },
+            "name": "Karl Marx Allee",
+            "headline": "10:30 a.m. A Stalinist stroll",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "10:30"
+            },
+            "cost": {
+                "currency": "EUR"
+            },
+            "description": "Built on the rubble of World War II, the wide boulevard known as Karl Marx Allee started life as Stalinallee, Stalin Boulevard, but was renamed after Marx in 1961. Between Frankfurter Tor in Friedrichshain and Alexanderplatz — just under two miles — the 300-foot-wide street is lined with monumental, wedding cakelike, Stalinist-style structures, built to be “workers’ palaces,” a place for East Germany to showcase the glories of Socialism. The Italian architect Aldo Rossi called it “Europe’s last great street.” Placards are positioned along the way to explain the history of noteworthy buildings, such as Kino International, a still-working movie theater and a gem of functionalist architecture, and the dual towers, Frankfurter Tor.",
+            "relevantPlaces": [
+                "Kino International"
+            ]
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Karl-Marx-Allee 72",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.51729599999999,
+                    "lng": 13.436990000000037
+                }
+            },
+            "name": "Café Sibylle",
+            "headline": "Noon. Snack break",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "12:00"
+            },
+            "cost": {
+                "currency": "EUR",
+                "value": "25"
+            },
+            "description": "Named for a popular G.D.R.-era magazine, Café Sibylle is one of the few businesses on the Karl Marx Allee that still exists from the Cold War days. About halfway along the boulevard, the cafe is nicely positioned for a rest. After taking in the permanent exhibition on the evolution of the boulevard, complete with text, photos and household objects from the 1950s and 60s, plant yourself at a table and sip coffee or a beer and graze on a salad or a sausage. The wooden tables and high ceilings invite visitors to stay awhile. Lunch for two costs about €25.",
+            "relevantPlaces": []
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Ruschestraße 103/Haus 1",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.51453799999999,
+                    "lng": 13.487406999999962
+                }
+            },
+            "name": "Stasi Museum",
+            "placeURL": "http://www.stasimuseum.de/",
+            "headline": "11 a.m. The lives of others",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "11:00"
+            },
+            "cost": {
+                "currency": "EUR",
+                "value": "8"
+            },
+            "description": "The Stasi’s main job was spying on ordinary people who were not in line with party policies and values, hauntingly depicted in the 2006 German film “The Lives of Others.” The Stasi Museum is in the agency’s former headquarters in Lichtenberg. The three floors hold hundreds of artifacts, such as bugging devices, hidden cameras and lock picks, as well as placards detailing nearly every aspect of the organization, including the fact that up to 180,000 East German “unofficial informants” were working with the Stasi by 1989. The tour ends on the third floor at a cafe and bar — after the museum, you might need a stiff drink. There are free 90-minute guided tours in English at 3 p.m. on Thursday to Monday. Admission is €8 and the tour is free.",
+            "relevantPlaces": []
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Straße der Pariser Kommune 18b",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.511211,
+                    "lng": 13.438171099999977
+                }
+            },
+            "name": "Volkskammer",
+            "placeURL": "http://www.volkskammer.de/",
+            "headline": "7 p.m. The ‘People’s’ restaurant",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "19:00"
+            },
+            "cost": {
+                "currency": "EUR",
+                "value": "50"
+            },
+            "description": "Named for the “People’s Chamber,” the lower house of parliament in the G.D.R., Volkskammer tries to revive East Germany on a daily basis by cooking up gruel for the odd local with a case of “ostalgie” — nostalgia for the old East — and curious tourists willing to punish their palates with hearty slop like Falscher Hase, or counterfeit rabbit: a dense, gravy-smothered meatloaf hiding a hard-boiled egg and cured pork knuckle with kraut. Dinner for two is about €50, including beer or wine. If you can’t stomach Soviet-era cuisine, try nearby Michelberger (in the hotel of the same name), which serves up excellent farm-to-table, uber-seasonal fare such as venison pie or wild boar schnitzel with pumpkin. Dinner for two is about €75, with wine.",
+            "relevantPlaces": [
+                "Michelberger "
+            ]
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Wühlischstraße 29",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.50950479999999,
+                    "lng": 13.458325400000035
+                }
+            },
+            "name": "Die Tagung",
+            "placeURL": "http://instagram.com/die_tagung",
+            "headline": "9 p.m. Red hangover",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "21:00"
+            },
+            "cost": {
+                "currency": "EUR",
+                "value": "3"
+            },
+            "description": "Opened in 1992, just three years after the Wall fell, Die Tagung, a bar in the Friedrichshain neighborhood, celebrates the G.D.R. with a sense of humor. The owner, a longtime Friedrichshain resident, scoured a local abandoned train repair complex for former East Berlin-era signs that now grace the walls, along with tapestries bearing the image of Karl Marx, and a large bust of Vladimir Lenin who was, on a recent visit, sporting headphones and aviator glasses. There are also enough red stars and hammer-and-sickle symbols to inspire a collective May Day parade. Imbibe a Russian Cocaine, €3: a shot of vodka that comes with a slice of lemon coated with sugar on one side and coffee grinds on the other.",
+            "relevantPlaces": []
+        },
+        {
+            "location": {
+                "address": {
+                    "street": "Alt-Stralau 70",
+                    "city": "Berlin",
+                    "country": "Germany"
+                },
+                "coordinates": {
+                    "lat": 52.4974459,
+                    "lng": 13.46518500000002
+                }
+            },
+            "name": "Salon - Zur wilden Renate",
+            "placeURL": "http://www.renate.cc/",
+            "headline": "10 p.m. House party",
+            "time": {
+                "type": "24hr",
+                "format": "HH:MM",
+                "value": "22:00"
+            },
+            "cost": {
+                "currency": "EUR",
+                "value": "10"
+            },
+            "description": "You could go to the Museumswohnung, a three-bedroom apartment so perfectly preserved you’d almost expect the Stasi, the official East German state security apparatus, to be bugging the place. Or you could spend your Saturday night dancing at Salon zur Wilden Renate, a techno club that took over an abandoned apartment building in Friedrichshain and sort of left things as they were, including 1970s wallpaper, couches and beds. Opening times vary, so check the club website before heading out. Entrance is €10 to €15, depending on the night and event.",
+            "relevantPlaces": [
+                "Museumswohnung"
+            ]
+        }
+    ]
+}
